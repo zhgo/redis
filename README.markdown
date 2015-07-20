@@ -17,7 +17,7 @@ Documentation
 -------------
 
 - [API Reference](http://godoc.org/github.com/zhgo/redis/redis)
-- [FAQ](https://github.com/zhgo/redis/wiki/FAQ)
+- [FAQ](https://github.com/garyburd/redigo/wiki/FAQ)
 
 Installation
 ------------
