@@ -20,8 +20,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/garyburd/redigo/internal/redistest"
-	"github.com/garyburd/redigo/redis"
+	"github.com/zhgo/redis/internal/redistest"
+	"github.com/zhgo/redis/redis"
 )
 
 func ExampleScript(c redis.Conn, reply interface{}, err error) {
